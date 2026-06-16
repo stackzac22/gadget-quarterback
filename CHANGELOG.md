@@ -21,7 +21,7 @@ All notable changes to this project will be documented in this file.
 - SD Card Helper GUI (Electron)
 - GitHub Actions CI/CD workflows
 - MIT License
-- Comprehensive documentation
+- documentation
 
 ### Roadmap
 - ESPHome device discovery
